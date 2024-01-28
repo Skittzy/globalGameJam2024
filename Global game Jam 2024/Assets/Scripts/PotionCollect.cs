@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class PotionCollect : MonoBehaviour
 {
-    public static int totalPotions = 0; 
+    public static int totalPotions = 0;
+
+    [SerializeField] private AudioSource collectSoundEffect;
 
     void Awake()
     {
@@ -15,6 +17,7 @@ public class PotionCollect : MonoBehaviour
     {
         if (c2d.CompareTag("Player"))
         {
+            collectSoundEffect.Play();
             if (PotionInventory.Instance.CanCollectPotion())
             {
                 totalPotions++;
