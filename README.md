@@ -1,1 +1,1 @@
-Koga ke pravite nesto bilo sto, pravete go vo bransa za da nema konflikti.
+"Vampurr: Holy Retribution" is a heartwarming and entertaining 2D pixel art side-scrolling adventure game, set in a world where a mysterious vampiric curse has turned all humans into bloodsucking creatures of the night. Embrace your inner adorable feline as you step into the paws of Whiskerius, a cute priest cat on a divine mission to purify the vampire menace using holy water, transforming them into lovable cats. 
